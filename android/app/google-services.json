@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "790767904354",
+    "project_id": "ninja-coffee-shop",
+    "storage_bucket": "ninja-coffee-shop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790767904354:android:12d1380742bdd59446d33b",
+        "android_client_info": {
+          "package_name": "com.hanindustries.ninja_coffee_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790767904354-hfi0337n1420hh2bc71eqh1rgja4b3r4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD23kWTnVVsNZAgm4wKEuqK2jJnGVUDGJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790767904354-hfi0337n1420hh2bc71eqh1rgja4b3r4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
